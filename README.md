@@ -1,2 +1,2 @@
 # algorithms
-Collection of algorithms used for study.
+Collection of PHP algorithms used for study.
